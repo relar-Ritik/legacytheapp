@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+openai
+faiss-cpu
+transformers
+torch
+python-dotenv
+markdown
+numpy
+tiktoken
+protobuf
+sentencepiece
+python-multipart
+psycopg2-binary
